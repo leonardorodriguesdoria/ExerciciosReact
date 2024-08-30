@@ -1,0 +1,21 @@
+.nomeTarefasContainer {
+  display: flex;
+  flex-direction: row;
+}
+.tarefaCard {
+  width: 100%;
+}
+
+.table {
+  display: flex;
+  flex-direction: column;
+}
+
+.tableElements {
+  display: flex;
+  flex-direction: row;
+  width: 500px;
+}
+.tableColumns {
+  width: 100%;
+}
